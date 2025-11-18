@@ -1,4 +1,7 @@
 ## Hi there 👋
+### My name is Nicolae, I'm a CS student at the University of Washington and I like to make cool stuff!
+
+![x3rdev's GitHub stats](https://github-readme-stats.vercel.app/api?username=x3rdev&show_icons=true&theme=codeSTACKr&hide_rank=true)
 
 <!--
 **x3rdev/x3rdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
