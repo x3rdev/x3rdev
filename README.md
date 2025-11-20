@@ -1,5 +1,4 @@
-## Hi there 👋
-### My name is Nicolae, I'm a CS student at the University of Washington and I like to make cool stuff!
+### CS student at the University of Washington
 
 ![x3rdev's GitHub stats](https://github-readme-stats.vercel.app/api?username=x3rdev&show_icons=true&theme=codeSTACKr&hide_rank=true)
 
