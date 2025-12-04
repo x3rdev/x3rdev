@@ -8,6 +8,8 @@ Student pursuing a degree in computer science at the [Paul G. Allen School of Co
   </a>
 </div>
 
+<hr>
+
 ### 🛠️ Languages and Tools
 
 <br>
@@ -15,5 +17,7 @@ Student pursuing a degree in computer science at the [Paul G. Allen School of Co
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,python,cpp,js,ts,git" />
 </p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=x3rdev)](https://github.com/anuraghazra/github-readme-stats)
 
 <hr>
