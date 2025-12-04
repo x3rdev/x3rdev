@@ -1,18 +1,19 @@
-### CS student at the University of Washington
+## Nicolae U.
 
-![x3rdev's GitHub stats](https://github-readme-stats.vercel.app/api?username=x3rdev&show_icons=true&theme=codeSTACKr&hide_rank=true)
+Student pursuing a degree in computer science at the [Paul G. Allen School of Computer Science & Engineering](https://www.cs.washington.edu/). Passionate about creating functional, user-friendly projects and applicatons.
 
-<!--
-**x3rdev/x3rdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <a href="https://www.linkedin.com/in/nicolae-ungur/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+</div>
 
-Here are some ideas to get you started:
+### 🛠️ Languages and Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,js,ts,cpp,git" />
+</p>
+
+<hr>
