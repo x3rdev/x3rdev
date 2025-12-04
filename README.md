@@ -13,7 +13,7 @@ Student pursuing a degree in computer science at the [Paul G. Allen School of Co
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,ts,cpp,git" />
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,js,ts,git" />
 </p>
 
 <hr>
