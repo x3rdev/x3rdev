@@ -16,8 +16,6 @@ Student pursuing a degree in computer science at the [Paul G. Allen School of Co
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,python,cpp,js,ts,git"/>
-  <div></div>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=x3rdev&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 
 
