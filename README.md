@@ -1,6 +1,6 @@
 ## Nicolae U.
 
-Student pursuing a degree in computer science at the [Paul G. Allen School of Computer Science & Engineering](https://www.cs.washington.edu/). Passionate about creating functional, user-friendly projects and applicatons.
+Student pursuing a degree in computer science at the [Paul G. Allen School of Computer Science & Engineering](https://www.cs.washington.edu/). Passionate about developing applicatons and systems.
 
 <div align="center">
   <a href="https://www.linkedin.com/in/nicolae-ungur/" target="_blank">
