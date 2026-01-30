@@ -12,3 +12,7 @@
 
 ### 🏗️ Projects
 
+* 🔫 [**MekanismTurrets**](https://github.com/x3rdev/MekanismTurrets): Minecraft mod and addon for Mekanism. Enhances your Minecraft base defenses turrets!
+* 📂 [**send_file_p2p**](https://github.com/x3rdev/send_file_p2p): Low level peer-to-peer file transfer utility written in C++.
+* 🤖 [**SelectionGPT**](https://github.com/x3rdev/SelectionGPT): Firefox browser extension to query ChatGPT directly about highlighted text on any webpage.
+* ⚡ [**selectiveentityremoval**](https://github.com/x3rdev/selectiveentityremoval): Performance Minecraft mod for Fabric allowing fine grain control of entity culling distances.
