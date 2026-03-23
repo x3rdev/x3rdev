@@ -1,6 +1,6 @@
 # Hey, I'm Nicolae 🌊 ![](https://u8views.com/github/x3rdev)
 
-> Student pursuing a degree in computer science at the [Paul G. Allen School of Computer Science & Engineering](https://www.cs.washington.edu/). Passionate about developing applicatons and systems.
+> Student pursuing a degree in computer science at the [Paul G. Allen School of Computer Science & Engineering](https://www.cs.washington.edu/). Passionate about developing applications and systems.
 
 ### 🛠️ Languages and Tools
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
