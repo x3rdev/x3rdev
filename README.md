@@ -1,4 +1,4 @@
-# Hey, I'm Nicolae 🌊 ![](https://u8views.com/github/x3rdev)
+# Hey, I'm Nicolae ![](https://u8views.com/github/x3rdev)
 
 > Student pursuing a degree in computer science at the [Paul G. Allen School of Computer Science & Engineering](https://www.cs.washington.edu/). Passionate about developing applications and systems.
 
